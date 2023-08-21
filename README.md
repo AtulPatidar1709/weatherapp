@@ -1,3 +1,8 @@
+#Screen Shot :
+
+![weather](https://github.com/AtulPatidar1709/weatherapp/assets/48468580/09228f08-97be-4eae-bebb-502e05833014)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App].
